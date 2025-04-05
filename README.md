@@ -3,7 +3,7 @@
 
 ---
 🎓 **Data Analyst | Master's Student in Big Data & Quantitative Methods**  
-✈️ **Aviation Enthusiast | Junior Revenue Performance Analyst at PLL LOT**  
+✈️ **Aviation Enthusiast | Revenue Performance Analyst at PLL LOT**  
 📊 **Passionate about Data Science, Machine Learning, and Business Analytics**  
 
 ---
