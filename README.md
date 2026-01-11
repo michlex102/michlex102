@@ -19,9 +19,7 @@
 
 ## 📫 Let's Connect!
 
-<a href="www.linkedin.com/in/michał-jamroży-380373241" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michał-jamroży-380373241/)
 
 ---
 
