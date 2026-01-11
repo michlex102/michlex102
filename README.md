@@ -19,8 +19,7 @@
 
 ## 📫 Let's Connect!
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/michał-jamroży-380373241](https://www.linkedin.com/in/micha%C5%82-jamro%C5%BCy-380373241/))
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/MJamrozy](https://github.com/michlex102))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/michał-jamroży-380373241)
 
 ---
 
